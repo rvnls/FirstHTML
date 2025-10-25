@@ -1,0 +1,30 @@
+body {
+    background: url('/images/fields.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Myheadings {
+    text-align: center;
+margin-top: 20px;
+border: 5px solid rgb(242, 95, 168);
+border-radius: 25px;
+cursor: pointer;
+color: rgb(229, 112, 131);
+}
+.Myheadings:hover {
+    color: rgb(169, 230, 217);
+    background-color: rgb(228, 141, 195);
+}
+p {
+    text-align: justify;
+    text-align: center;
+padding: 150px;
+font-family: fantasy;
+font-size:larger;
+font-weight: bolder;
+color: rgb(203, 40, 67);
+}
+div p{
+    margin-bottom: 100px;  
+}
